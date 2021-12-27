@@ -1,6 +1,7 @@
 ![](banner.jpg)
 
 # Technologies & Tools:
+![eclipse](https://raw.githubusercontent.com/caidevOficial/Logos/master/Lenguajes/logo-eclipse.png)
 
 <!--
 **LuciaHeredia/luciaheredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
