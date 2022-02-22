@@ -1,3 +1,5 @@
+<img src = "banner new.png">
+
 # Technologies & Tools:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=9% height=9%> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-1-logo.png" width=9% height=9%> <img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png" width=8% height=8%> <img src="https://raw.githubusercontent.com/caidevOficial/Logos/master/Lenguajes/logo-eclipse.png" width=8% height=8%> <img src="https://img.icons8.com/color/452/firebase.png" width=9% height=9%> <img src="https://cdn1.iconfinder.com/data/icons/social-media-glossy/512/23-swift_social-512.png" width=8% height=8%> <img src="https://findicons.com/files/icons/727/leopard/128/xcode.png" width=9% height=9%> <img src="https://i.pinimg.com/originals/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.png" width=8% height=8%> <img src="https://img.icons8.com/fluency/452/unity.png" width=9% height=9%> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width=8% height=8%> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=8% height=8%>
