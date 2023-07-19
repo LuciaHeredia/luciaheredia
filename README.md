@@ -1,3 +1,4 @@
+<img src = "LUCIA HEREDIA.png">
 
 # Game Development:
 <img src="https://i.pinimg.com/originals/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.png" width=8% height=8%> <img src="https://img.icons8.com/fluency/452/unity.png" width=9% height=9%> <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width=8% height=8%> 
