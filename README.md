@@ -7,7 +7,7 @@
 - Ansible
 - Jenkins
 - Kubernetes
-- Python
+- [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
 # Other Skills:
 ### Native Mobile Apps:
