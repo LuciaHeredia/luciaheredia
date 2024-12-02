@@ -1,7 +1,7 @@
 <img src = "LUCIA HEREDIA.png">
 
 
-# DevOps:
+### DevOps:
 - AWS
 - Terraform
 - Ansible
@@ -9,7 +9,7 @@
 - Kubernetes
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
-# Other Skills:
+## Other Skills:
 ### Native Mobile Apps:
 - Android: [Java](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=java&sort=)/[Kotlin](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=kotlin&sort=)
 - IOS: [Swift](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=swift&sort=)
