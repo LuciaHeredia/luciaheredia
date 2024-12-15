@@ -7,7 +7,7 @@
 - Ansible
 - Jenkins
 - Kubernetes
-- Bash
+- [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
 ## Other Skills:
