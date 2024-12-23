@@ -7,6 +7,8 @@
 - Ansible
 - Jenkins
 - Kubernetes
+- Git
+- Linux/WSL2
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
