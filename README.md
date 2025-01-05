@@ -3,6 +3,7 @@
 
 ### DevOps:
 - AWS
+- Docker
 - Terraform
 - Ansible
 - Jenkins
