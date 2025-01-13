@@ -1,7 +1,7 @@
 <img src = "LUCIA HEREDIA.png">
 
 
-### DevOps:
+## DevOps:
 - AWS
 - [Docker](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=dockerfile&sort=)
 - Terraform
@@ -9,19 +9,19 @@
 - Jenkins
 - Kubernetes
 - Git
+- VSC
 - Linux/WSL2
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
 ## Other Skills:
-### Native Mobile Apps:
+#### Native Mobile Apps:
 - Android: [Java](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=java&sort=)/[Kotlin](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=kotlin&sort=)
 - IOS: [Swift](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=swift&sort=)
 - Design patterns, Sensors, DB(Firebase, API, Shared preferences, SQLite, ROOM).
 
-### 2D/3D Game Development:
+#### 2D/3D Game Development:
 - Unity: [C#](https://github.com/stars/LuciaHeredia/lists/myunitygamedev)
-- VSC
 
 <!--
 **LuciaHeredia/luciaheredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
