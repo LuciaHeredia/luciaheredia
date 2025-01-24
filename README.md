@@ -8,9 +8,9 @@
 - Ansible
 - Jenkins
 - Kubernetes
-- Git
+- [Git](https://github.com/LuciaHeredia?tab=repositories&q=git&type=&language=&sort=)
 - VSC
-- Linux/WSL2
+- Linux
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
