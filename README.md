@@ -3,7 +3,7 @@
 
 ## DevOps:
 - [AWS](https://github.com/LuciaHeredia?tab=repositories&q=aws&type=&language=&sort=)
-- [Docker](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=dockerfile&sort=)
+- [Docker](https://github.com/LuciaHeredia?tab=repositories&q=dockerfile&type=&language=&sort=)
 - Terraform
 - Ansible
 - Jenkins
