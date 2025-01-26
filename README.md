@@ -14,7 +14,7 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 ## :hammer_and_wrench: Languages and Tools:
 - [AWS](https://github.com/LuciaHeredia?tab=repositories&q=aws&type=&language=&sort=)
 - [Docker](https://github.com/LuciaHeredia?tab=repositories&q=dockerfile&type=&language=&sort=)
-- Terraform
+- [Terraform](https://github.com/LuciaHeredia?tab=repositories&q=terraform&type=&language=&sort=)
 - Ansible
 - Jenkins
 - Kubernetes
