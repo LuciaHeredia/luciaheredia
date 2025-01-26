@@ -25,8 +25,7 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
 ## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuciaHeredia&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaHeredia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LuciaHeredia&theme=radical" alt="GitHub Streak" /></a> 
 
 <!--
 ## Other Skills:
