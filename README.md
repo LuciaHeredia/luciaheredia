@@ -23,11 +23,10 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - Linux
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
-
-## :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=LuciaHeredia&theme=radical&mode=weekly&type=png)](https://git.io/streak-stats)
-
 <!--
+## :fire: My Stats:
+[![](https://streak-stats.demolab.com/?user=LuciaHeredia&theme=dark)](https://git.io/streak-stats)
+
 ## Other Skills:
 #### Native Mobile Apps:
 - Android: [Java](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=java&sort=)/[Kotlin](https://github.com/LuciaHeredia?tab=repositories&q=&type=public&language=kotlin&sort=)
