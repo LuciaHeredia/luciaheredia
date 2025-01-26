@@ -25,7 +25,7 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
 ## :fire: My Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LuciaHeredia&theme=radical" alt="GitHub Streak" /></a> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuciaHeredia&theme=radical&mode=weekly&type=png)](https://git.io/streak-stats)
 
 <!--
 ## Other Skills:
