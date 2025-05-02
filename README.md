@@ -23,6 +23,8 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - Linux
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
+
+
   
 <!--
 ## :fire: My Stats:
