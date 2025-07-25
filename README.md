@@ -24,6 +24,8 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - [Bash](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=shell&sort=)
 - [Python](https://github.com/LuciaHeredia?tab=repositories&q=&type=&language=python&sort=)
 
+
+
 <!--
 ## :fire: My Stats:
 [![](https://streak-stats.demolab.com/?user=LuciaHeredia&theme=dark)](https://git.io/streak-stats)
