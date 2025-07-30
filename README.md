@@ -16,7 +16,7 @@ Currently expanding my knowledge in the DevOps field with some self projects. <b
 - [Docker](https://github.com/LuciaHeredia?tab=repositories&q=dockerfile&type=&language=&sort=)
 - [Terraform](https://github.com/LuciaHeredia?tab=repositories&q=terraform&type=&language=&sort=)
 - [Ansible](https://github.com/LuciaHeredia?tab=repositories&q=ansible&type=&language=&sort=)
-- Jenkins
+- Jenkins / [Github Actions](https://github.com/LuciaHeredia?tab=repositories&q=github-actions&type=&language=&sort=)
 - Kubernetes
 - [Git](https://github.com/LuciaHeredia?tab=repositories&q=git&type=&language=&sort=)
 - VSC
